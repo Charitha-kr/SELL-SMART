@@ -2,7 +2,7 @@
 # SoftSell - Software License Resale Platform
 
 ## Project Information
-
+https://soft-sell-bay.vercel.app/
 
 SoftSell is a fictional software resale startup that helps businesses and individuals sell their unused software licenses quickly, securely, and for the best possible price.
 
